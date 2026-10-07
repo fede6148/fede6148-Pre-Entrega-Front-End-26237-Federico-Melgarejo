@@ -71,6 +71,7 @@ ul {
 
 section {
     padding: 70px 0;
+    scroll-margin-top: 70px;
 }
 
 .titulo-seccion {
